@@ -7,6 +7,3 @@
 Olá, meu nome é Sara e eu tenho 16 anos.
 
 - [Courses](https://pythonpro.com.br/) 👨🏼‍🏫 - Atualmente fazendo parte do Bootcamp para desenvolvedores Frontend (DevPro - 2022)
-- Estou aprendendo HTMLS e CSS
-- Adoro aprender coisas novas
-- Estou no segundo ano do ensino médio
