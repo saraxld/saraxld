@@ -6,4 +6,3 @@
 ### About me
 Olá, meu nome é Sara.
 
-- [Courses](https://pythonpro.com.br/) 👨🏼‍🏫 - Atualmente fazendo parte do Bootcamp para desenvolvedores Frontend (DevPro - 2022)
