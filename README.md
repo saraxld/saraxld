@@ -4,7 +4,7 @@
 
 - 🔭 Sou estudante de Sistemas de informação
 - 🌱 Estudando Desenvolvimento Front-end
-- ⚡ Fun fact: Apaixonado por tecnologia 
+- ⚡ Fun fact: Apaixonada por tecnologia 
 
 </div>
 <div style="display: inline_block"><br>
